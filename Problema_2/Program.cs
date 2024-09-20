@@ -28,6 +28,7 @@ namespace Problema_2
             Console.WriteLine();
             Console.WriteLine("Codigo            : " + compu.Codigo);
             Console.WriteLine("Marca             : " + compu.Marca);
+            Console.WriteLine("Color             : " + compu.Color);
             Console.WriteLine("Precio en dolares : " + compu.PrecioDolar);
             Console.WriteLine("Precio en soles   : " + compu.calcularPrecioCompuSoles());
             Console.WriteLine("Precio en Euros   : " + compu.calcularPrecioCompuEuros());
